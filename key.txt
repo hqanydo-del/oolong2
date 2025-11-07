@@ -1,2 +1,3 @@
-ABC-123|5
-KEY-XYZ|3
+ABC-123|
+KEY-XYZ|
+
